@@ -171,15 +171,15 @@
 }
 
 .card_type_film {
-    background-image: url(/images/card-lot-01.jpg);
+    background-image: url("../images2/card-lot-012.png");
 }
 
 .card_type_book {
-    background-image: url(/images/card-lot-02.jpg);
+    background-image: url("../images2/card-lot-022.png");
 }
 
 .card_type_picture {
-    background-image: url(/images/card-lot-03.jpg);
+    background-image: url("../images2/card-lot-032.png");
 }
 
 .card__text {
