@@ -81,7 +81,7 @@
     justify-content: space-between;
     position: relative;
     z-index: 2;
-    align-items: center; /*Относительно кнопки*/
+    align-items: center;
     margin-left: 30px;
 }
 
