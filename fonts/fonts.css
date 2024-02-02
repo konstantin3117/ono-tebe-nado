@@ -2,8 +2,8 @@
   font-family: 'Raleway';
   src:
     local('Raleway'),
-    url(/Raleway-Regular.woff2) format('woff2'),
-    url(/Raleway-Regular.woff) format('woff');
+    url(https://github.com/konstantin3117/ono-tebe-nado/blob/main/fonts/Raleway-Regular.woff2) format('woff2'),
+    url(https://github.com/konstantin3117/ono-tebe-nado/blob/main/fonts/Raleway-Regular.woff) format('woff');
   font-weight: normal;
   font-display: swap;
 }
@@ -12,8 +12,8 @@
   font-family: 'Raleway';
   src:
     local('Raleway'),
-    url(/Raleway-Bold.woff2) format('woff2'),
-    url(/Raleway-Bold.woff) format('woff');
+    url(https://github.com/konstantin3117/ono-tebe-nado/blob/main/fonts/Raleway-Bold.woff2) format('woff2'),
+    url(https://github.com/konstantin3117/ono-tebe-nado/blob/main/fonts/Raleway-Bold.woff) format('woff');
   font-weight: bold;
   font-display: swap;
 }
