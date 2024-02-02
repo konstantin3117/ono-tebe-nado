@@ -33,7 +33,7 @@
 
 .cover {
     color: #FFF;
-    background-image: url("images/cover.png");
+    background-image: url(/images/cover.png);
     background-position: center;
     padding: 160px 50px 50px;
     position: relative;
@@ -156,15 +156,15 @@
 }
 
 .card_type_film {
-    background-image: url("images/card-lot-1.png");
+    background-image: url(/images/card-lot-1.png);
 }
 
 .card_type_book {
-    background-image: url("images/card-lot-2.jpg");
+    background-image: url(/images/card-lot-2.jpg);
 }
 
 .card_type_picture {
-    background-image: url("images/card-lot-3.png");
+    background-image: url(/images/card-lot-3.png);
 }
 
 .lots__look-more-link {
