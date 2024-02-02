@@ -92,7 +92,7 @@
 }
 
 .cover__bet-button {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-size: 22px;
     font-weight: normal;
     color: #fff;
